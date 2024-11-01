@@ -70,7 +70,7 @@
 </div>
 <br><br>
 
-## ***Be strong, brave and enjoy the road...*** 🚀
+## ***Be strong and brave! Enjoy the road...*** 🚀
 
 <!---
 mdutrashark/mdutrashark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
