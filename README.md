@@ -35,13 +35,13 @@
 ## 🧠 Main Skills
 <div align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vitest)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vitest,mongodb,react)](https://skillicons.dev)
 </div>
 
 ## 📖Studying in this moment 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,bootstrap,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,next,nest,typescript)](https://skillicons.dev)
 </div>
 
 ## 🎨Design Tools
